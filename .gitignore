@@ -3,3 +3,7 @@
 .idea/
 .idea/vcs.
 1Kriyativeedge
+git status
+git add .
+git commit -m 'week 6 class'
+git push origin master
