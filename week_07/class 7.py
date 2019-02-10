@@ -43,4 +43,3 @@ print("alp.replace ", alp.replace("abcdefg","2222220000s"))
 #starts with
 #ends with
 #index
-w
